@@ -12,7 +12,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ​
 
-프로필 사진johnbann님의 게시글 더보기 
+
 
 # Hi there 👋
 ## Hi there 👋
